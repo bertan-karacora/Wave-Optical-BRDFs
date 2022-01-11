@@ -1,4 +1,9 @@
 *.o
+*.so
 *.exr
-genBrdf
+.*
+*.zip
 heightfields/*
+genBrdf
+**/results
+__pycache__
